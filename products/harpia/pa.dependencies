@@ -1,0 +1,64 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Harpia/android_device_motorola_harpia",
+        "target_path":  "device/motorola/harpia",
+        "revision":     "nougat"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA-Harpia/android_device_motorola_msm8916-common",
+        "target_path":  "device/motorola/msm8916-common",
+        "revision":     "nougat"
+    },
+    {
+        "remote":      "github",
+        "repository":  "LineageOS/android_external_bson",
+        "target_path": "external/bson",
+        "revision":    "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "LineageOS/android_kernel_motorola_msm8916",
+        "target_path":  "kernel/motorola/msm8916",
+        "revision":     "cm-14.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ishubhamsingh/android_hardware_qcom_audio",
+        "target_path":  "hardware/qcom/audio",
+        "revision":     "nougat-mr2-8916"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ishubhamsingh/android_hardware_qcom_display",
+        "target_path":  "hardware/qcom/display",
+        "revision":     "nougat-mr2-8916"
+    },
+    {
+        "remote":       "github",
+        "repository":   "ishubhamsingh/android_hardware_qcom_media",
+        "target_path":  "hardware/qcom/media",
+        "revision":     "nougat-mr2-8916"
+    },
+    {
+        "remote":      "github",
+        "repository":  "TheMuppets/proprietary_vendor_motorola",
+        "target_path": "vendor/motorola",
+        "revision":      "cm-14.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_packages_resources_devicesettings",
+        "target_path": "packages/resources/devicesettings",
+        "revision": "cm-14.1"
+    },
+    {  
+        "remote": "github",
+        "repository": "LineageOS/android_external_connectivity",
+        "target_path": "external/connectivity",
+        "revision": "cm-14.1"
+    }
+
+]
+
